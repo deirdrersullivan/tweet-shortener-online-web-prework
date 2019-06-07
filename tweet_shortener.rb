@@ -11,3 +11,4 @@ dictionary = {
   "and" => "&"
 }
 end
+
